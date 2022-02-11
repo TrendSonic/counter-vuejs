@@ -1,5 +1,5 @@
 # vue-vuex
-
+small project for practicing vuex, vuejs (state managment)
 ## Project setup
 ```
 npm install
